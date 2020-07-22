@@ -1,0 +1,21 @@
+
+.title{
+    display: block;
+    font-size: 24px;
+    margin: 15px;
+    font-weight: bold;
+
+}
+.wrapper{
+    width: 250px;
+
+}
+.fieldWeather{
+    width: 150px;
+    margin: 0 0 0 0;
+}
+
+
+select{
+    margin: 0px;
+}
